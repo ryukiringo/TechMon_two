@@ -1,1 +1,1 @@
-# This is revised version. Add some codes for TechMon to resolve bugs.
+# This is revised version. Added some codes for TechMon to resolve bugs.
